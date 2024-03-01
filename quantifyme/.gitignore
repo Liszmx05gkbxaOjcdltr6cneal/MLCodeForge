@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.env
+mobile_app/android/
+mobile_app/ios/
+data/user_health_data_encrypted/
+models/
